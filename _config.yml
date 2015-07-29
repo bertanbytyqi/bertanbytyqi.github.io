@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: Bertan Bytyqi
 locale: en_US
-description: Describe your website here.
+description: My personal blog
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: http://bertanbytyqi.com
 
 # Jekyll configuration
 
@@ -31,15 +31,15 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Bertan Bytyqi
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: bertanbytyqi@hotmail.com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
+  twitter: bertanbytyqi
+  facebook: bertanbytyqi
+  github: bertanbytyqi
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: bertanbytyqi
   instagram: #username
   flickr: #username
   tumblr: #username
