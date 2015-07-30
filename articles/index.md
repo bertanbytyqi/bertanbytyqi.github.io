@@ -4,7 +4,7 @@ title: Sample Articles
 excerpt: "An archive of articles sorted by date."
 search_omit: true
 image:
-  feature: so-simple-sample-image-2.jpg
+  feature: so-simple-sample-image-1.jpg
 ---
 
 <ul class="post-list">
