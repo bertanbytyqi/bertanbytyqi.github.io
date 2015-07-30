@@ -4,7 +4,7 @@ title: Blog
 excerpt: "An archive of blog posts sorted by date."
 search_omit: true
 image:
-  feature: so-simple-sample-image-5.jpg
+  feature: so-simple-sample-image-3.jpg
 ---
 
 <ul class="post-list">
